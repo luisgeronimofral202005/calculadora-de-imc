@@ -104,4 +104,4 @@ if st.button("PROCESAR ANALISIS"):
         st.success("Perimetro de cintura dentro de rangos normales.")
 
     st.markdown("---")
-    st.caption("SISTEMA GENERADO POR UTEG - PROTOCOLO PROFESIONAL")
+    st.caption("SISTEMA GENERADO POR UTEG ")
